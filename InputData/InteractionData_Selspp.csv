@@ -1,0 +1,491 @@
+Year;Day;Month;Site;Season;Habitat;DegLev;Bird ID;Sex;Plant Family;Plant ID;Activity;Folder;Picture;Time
+2015;30;11;Yanacocha;Wet;Forest_Patch;3;Metallura tyrianthina;na;Bromeliaceae;Bromeliad3PF;Feeding;151130AB;12984;16:36:32
+2015;3;12;Yanacocha;Wet;Forest_Patch;3;Metallura tyrianthina;na;Bromeliaceae;Bromeliad3PF;Feeding;151203AB;10307;15:51:55
+2015;4;12;Yanacocha;Wet;Forest_Patch;3;Metallura tyrianthina;na;Bromeliaceae;Bromeliad3PF;Feeding;151204AB;3671;14:01:19
+2015;1;10;Verdecocha;Wet;Burned ;4;Eriocnemis mosquera;na;Bromeliaceae;Bromeliad3PF;Feeding;151001AB;8506;15:21:54
+2015;1;10;Verdecocha;Wet;Burned ;4;Metallura tyrianthina;na;Bromeliaceae;Bromeliad3PF;Feeding;151001AB;8824;15:27:12
+2015;1;10;Verdecocha;Wet;Burned ;4;Metallura tyrianthina;na;Bromeliaceae;Bromeliad3PF;Feeding;151001AB;Untitled;17:13:11
+2015;2;10;Verdecocha;Wet;Burned ;4;Metallura tyrianthina;na;Bromeliaceae;Bromeliad3PF;Feeding;151002AA;11791;9:16:39
+2015;2;10;Verdecocha;Wet;Burned ;4;Metallura tyrianthina;na;Bromeliaceae;Bromeliad3PF;Feeding;151002AA;17251;10:47:39
+2015;2;10;Verdecocha;Wet;Burned ;4;Metallura tyrianthina;na;Bromeliaceae;Bromeliad3PF;Feeding;151002AA;18810;11:13:38
+2015;3;10;Verdecocha;Wet;Burned ;4;Metallura tyrianthina;na;Bromeliaceae;Bromeliad3PF;Feeding;151003AA;12615;9:30:23
+2015;3;10;Verdecocha;Wet;Burned ;4;Metallura tyrianthina;na;Bromeliaceae;Bromeliad3PF;Feeding;151003AA;17306;10:48:34
+2015;3;10;Verdecocha;Wet;Burned ;4;Metallura tyrianthina;na;Bromeliaceae;Bromeliad3PF;Feeding;151003AA;21396;11:56:54
+2015;3;10;Verdecocha;Wet;Burned ;4;Diglossa lafresnayii;na;Bromeliaceae;Bromeliad3PF;Feeding;151003AB;5029;14:23:57
+2015;3;10;Verdecocha;Wet;Burned ;4;Diglossa lafresnayii;na;Bromeliaceae;Bromeliad3PF;Feeding;151003AB;5034;14:24:02
+2015;3;10;Verdecocha;Wet;Burned ;4;Metallura tyrianthina;na;Bromeliaceae;Bromeliad3PF;Feeding;151003AB;9860;15:44:28
+2015;4;10;Verdecocha;Wet;Burned ;4;Metallura tyrianthina;na;Bromeliaceae;Bromeliad3PF;Feeding;151005AA;12255;9:24:36
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;male;Bromeliaceae;Bromeliad3PF;Feeding;160505AA;2259;6:37:47
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Bromeliaceae;Bromeliad3PF;Feeding;160505AA;14060;9:54:28
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;male;Bromeliaceae;Bromeliad3PF;Feeding;160505AA;18983;11:16:31
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;male;Bromeliaceae;Bromeliad3PF;Feeding;160505AB;608;13:10:16
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;male;Bromeliaceae;Bromeliad3PF;Feeding;160505AB;8141;15:15:49
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;male;Bromeliaceae;Bromeliad3PF;Feeding;160505AB;15529;17:18:57
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Trochilidae;na;Bromeliaceae;Bromeliad3PF;Feeding;160506AA;4347;7:12:35
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Bromeliaceae;Bromeliad3PF;Feeding;160506AA;12824;9:33:52
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;male;Bromeliaceae;Bromeliad3PF;Feeding;160506AA;21048;11:50:57
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;male;Bromeliaceae;Bromeliad3PF;Feeding;160506AB;3608;14:00:16
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;male;Bromeliaceae;Bromeliad3PF;Feeding;160506AB;10139;15:49:07
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;male;Bromeliaceae;Bromeliad3PF;Feeding;160506AB;14808;17:06:56
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Bromeliaceae;Bromeliad3PF;Feeding;160508AA;13563;9:46:11
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;male;Bromeliaceae;Bromeliad3PF;Feeding;160508AA;16180;10:29:48
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Bromeliaceae;Bromeliad3PF;Feeding;160508AA;18647;11:10:55
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Bromeliaceae;Bromeliad3PF;Feeding;160508AB;3488;13:58:16
+2016;9;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;male;Bromeliaceae;Bromeliad3PF;Feeding;160509AA;264;6:04:32
+2016;9;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;male;Bromeliaceae;Bromeliad3PF;Feeding;160509AA;5927;7:38:55
+2016;9;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Bromeliaceae;Bromeliad3PF;Feeding;160509AA;6584;7:49:52
+2015;20;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis;;Bromeliaceae;Guzmania_sp;Feeding;150704AB;5194;14:26:42
+2015;20;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;Female;Bromeliaceae;Guzmania_sp;Feeding;150704AB;7084;14:58:12
+2015;20;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150704AB;7528;15:05:36
+2015;20;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150704AB;9742;15:42:30
+2015;20;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;Female;Bromeliaceae;Guzmania_sp;Feeding;150704AB;11689;16:14:57
+2015;20;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150704AB;12116;16:22:04
+2015;20;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;;Bromeliaceae;Guzmania_sp;Feeding;150704AB;14602;17:03:30
+2015;20;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis mosquera;;Bromeliaceae;Guzmania_sp;Feeding;150704AB;16200;17:30:08
+2015;20;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150704AB;18234;18:04:02
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150705AA;959;6:16:07
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;;Bromeliaceae;Guzmania_sp;Feeding;150705AA;4532;7:15:40
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150705AA;8871;8:27:59
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;;Bromeliaceae;Guzmania_sp;Feeding;150705AA;8951;8:29:19
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;Female;Bromeliaceae;Guzmania_sp;Feeding;150705AA;11207;9:06:55
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;Female;Bromeliaceae;Guzmania_sp;Feeding;150705AA;11847;9:17:35
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150705AA;11926;9:18:54
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150705AA;14194;9:56:42
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;Female;Bromeliaceae;Guzmania_sp;Feeding;150705AA;14314;9:58:42
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;Female;Bromeliaceae;Guzmania_sp;Feeding;150705AA;15914;10:25:22
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150705AA;16106;10:28:34
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150705AA;17967;10:59:35
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;;Bromeliaceae;Guzmania_sp;Feeding;150705AA;18432;11:07:20
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis nigrivestis;male;Bromeliaceae;Guzmania_sp;Feeding;150705AA;18634;11:10:42
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150705AA;19037;11:17:25
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150705AA;20874;11:48:02
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;Female;Bromeliaceae;Guzmania_sp;Feeding;150705AA;21166;11:52:54
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;;Bromeliaceae;Guzmania_sp;Feeding;150705AB;318;13:05:26
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150705AB;873;13:14:41
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150705AB;1880;13:31:28
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150705AB;3491;13:58:19
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150705AB;5334;14:29:02
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150705AB;8191;15:16:39
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis mosquera;;Bromeliaceae;Guzmania_sp;Feeding;150705AB;9956;15:46:04
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;;Bromeliaceae;Guzmania_sp;Feeding;150705AB;11845;16:17:33
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150705AB;13183;16:39:51
+2015;21;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150705AB;18042;18:00:50
+2015;23;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150707AA;4345;7:12:33
+2015;23;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;Female;Bromeliaceae;Guzmania_sp;Feeding;150707AA;8545;8:22:45
+2015;23;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;Female;Bromeliaceae;Guzmania_sp;Feeding;150707AA;11011;9:03:51
+2015;23;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;;Bromeliaceae;Guzmania_sp;Feeding;150707AA;12427;9:27:27
+2015;23;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;Female;Bromeliaceae;Guzmania_sp;Feeding;150707AA;14633;10:04:13
+2015;23;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;Female;Bromeliaceae;Guzmania_sp;Feeding;150707AA;20833;11:47:33
+2015;23;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis mosquera;;Bromeliaceae;Guzmania_sp;Feeding;150707AB;1416;13:23:44
+2015;23;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;Female;Bromeliaceae;Guzmania_sp;Feeding;150707AB;1916;13:32:04
+2015;23;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;Female;Bromeliaceae;Guzmania_sp;Feeding;150707AB;3516;13:58:44
+2015;23;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis mosquera;;Bromeliaceae;Guzmania_sp;Feeding;150707AB;6170;14:42:58
+2015;23;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis mosquera;;Bromeliaceae;Guzmania_sp;Feeding;150707AB;7066;14:58:05
+2015;23;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;Female;Bromeliaceae;Guzmania_sp;Feeding;150707AB;8864;15:28:03
+2015;23;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis mosquera;;Bromeliaceae;Guzmania_sp;Feeding;150707AB;11368;16:09:47
+2015;23;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;Female;Bromeliaceae;Guzmania_sp;Feeding;150707AB;16629;15:37:28
+2015;24;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;;Bromeliaceae;Guzmania_sp;Feeding;150708AA;13189;9:41:08
+2015;24;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;;Bromeliaceae;Guzmania_sp;Feeding;150708AA;14316;9:59:55
+2015;24;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;;Bromeliaceae;Guzmania_sp;Feeding;150708AA;15300;10:16:19
+2015;24;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;;Bromeliaceae;Guzmania_sp;Feeding;150708AA;16765;10:40:44
+2015;24;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;;Bromeliaceae;Guzmania_sp;Feeding;150708AA;17915;10:59:54
+2015;24;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;Female;Bromeliaceae;Guzmania_sp;Feeding;150708AA;19840;11:31:59
+2015;25;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;Female;Bromeliaceae;Guzmania_sp;Feeding;150725AA;1638;6:27:26
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160505AB;620-621;13:10:28
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160505AB;3298;13:55:06
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160505AB;5551-5552;14:32:41
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160505AB;7862-7864;15:11:10
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160505AB;11772-11774;16:16:20
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis sp;juvenile;Bromeliaceae;Guzmania_sp;Feeding;160505AB;13744;16:49:12
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis sp;juvenile;Bromeliaceae;Guzmania_sp;Feeding;160505AB;17409;17:50:17
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160506AA;12797;9:33:25
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160506AA;16744;10:39:12
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160506AA;18876;11:14:44
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160506AB;438;13:07:26
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160506AB;4584;14:16:32
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160506AB;7124;14:58:52
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160506AB;12307;16:25:15
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis sp;juvenile;Bromeliaceae;Guzmania_sp;Feeding;160506AB;17510;17:51:58
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160507AA;3514;6:58:42
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160507AA;7021;7:57:09
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160507AA;10146;8:49:14
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160507AA;14991;10:09:59
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160507AA;18200;11:03:28
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160507AA;20753;11:46:01
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160507AB;1434;13:24:02
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis sp;juvenile;Bromeliaceae;Guzmania_sp;Feeding;160507AB;2911;13:48:39
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160507AB;4705;14:18:33
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160507AB;7891;15:11:39
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis sp;juvenile;Bromeliaceae;Guzmania_sp;Feeding;160507AB;11298;16:08:26
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis sp;juvenile;Bromeliaceae;Guzmania_sp;Feeding;160507AB;14244;16:57:32
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis sp;juvenile;Bromeliaceae;Guzmania_sp;Feeding;160507AB;15971;17:26:19
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis sp;juvenile;Bromeliaceae;Guzmania_sp;Feeding;160507AB;17546;17:52:34
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160508AA;5343;7:29:11
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160508AA;8665;8:24:33
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160508AA;12117;9:22:20
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160508AA;14029;9:54:12
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160508AA;18502;11:08:45
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160508AA;21106;11:52:09
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160508AB;2220;13:37:08
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160508AB;3644;14:00:52
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160508AB;7255;15:01:03
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis sp;juvenile;Bromeliaceae;Guzmania_sp;Feeding;160508AB;8695;15:25:03
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160508AB;9726;15:42:14
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160508AB;12097;16:21:58
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis sp;juvenile;Bromeliaceae;Guzmania_sp;Feeding;160508AB;14012;16:53:53
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Guzmania_sp;Feeding;160508AB;15457;17:17:58
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis sp;juvenile;Bromeliaceae;Guzmania_sp;Feeding;160508AB;18033;18:00:54
+2016;6;5;Esperanza;Wet;Forest_Border;1;Adelomyia melanogenys;na;Bromeliaceae;Guzmania_sp;Feeding;160506AA;10141;8:49:09
+2016;6;5;Esperanza;Wet;Forest_Border;1;Adelomyia melanogenys;na;Bromeliaceae;Guzmania_sp;Feeding;160506AA;12159;9:22:47
+2016;6;5;Esperanza;Wet;Forest_Border;1;Adelomyia melanogenys;na;Bromeliaceae;Guzmania_sp;Feeding;160506AA;17117;10:45:25
+2016;6;5;Esperanza;Wet;Forest_Border;1;Adelomyia melanogenys;na;Bromeliaceae;Guzmania_sp;Feeding;160506AA;18151;11:02:39
+2016;6;5;Esperanza;Wet;Forest_Border;1;Adelomyia melanogenys;na;Bromeliaceae;Guzmania_sp;Feeding;160506AB;1569;13:26:17
+2016;7;5;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Bromeliaceae;Guzmania_sp;Feeding;160506AB;3075;6:51:23
+2016;7;5;Esperanza;Wet;Forest_Border;1;Adelomyia melanogenys;na;Bromeliaceae;Guzmania_sp;Feeding;160506AB;9952;8:46:00
+2016;7;5;Esperanza;Wet;Forest_Border;1;Adelomyia melanogenys;na;Bromeliaceae;Guzmania_sp;Feeding;160506AB;12918;9:35:26
+2016;8;5;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Bromeliaceae;Guzmania_sp;Feeding;160508AA;550;6:09:18
+2016;8;5;Esperanza;Wet;Forest_Border;1;Adelomyia melanogenys;na;Bromeliaceae;Guzmania_sp;Feeding;160508AA;4746;7:19:14
+2016;8;5;Esperanza;Wet;Forest_Border;1;Adelomyia melanogenys;na;Bromeliaceae;Guzmania_sp;Feeding;160508AA;6107;7:41:55
+2016;8;5;Esperanza;Wet;Forest_Border;1;Adelomyia melanogenys;na;Bromeliaceae;Guzmania_sp;Feeding;160508AA;10128;8:48:56
+2016;8;5;Esperanza;Wet;Forest_Border;1;Adelomyia melanogenys;na;Bromeliaceae;Guzmania_sp;Feeding;160508AA;11195;9:06:43
+2016;8;5;Esperanza;Wet;Forest_Border;1;Adelomyia melanogenys;na;Bromeliaceae;Guzmania_sp;Feeding;160508AA;14097;9:55:05
+2016;8;5;Esperanza;Wet;Forest_Border;1;Adelomyia melanogenys;na;Bromeliaceae;Guzmania_sp;Feeding;160508AA;20710;11:45:31
+2016;8;5;Esperanza;Wet;Forest_Border;1;Adelomyia melanogenys;na;Bromeliaceae;Guzmania_sp;Feeding;160508AB;1346;13:22:34
+2016;8;5;Esperanza;Wet;Forest_Border;1;Adelomyia melanogenys;na;Bromeliaceae;Guzmania_sp;Feeding;160508AB;4003;14:06:51
+2016;8;5;Esperanza;Wet;Forest_Border;1;Adelomyia melanogenys;na;Bromeliaceae;Guzmania_sp;Feeding;160508AB;14898;17:08:26
+2015;26;10;Yanacocha;Wet;Forest_Border;2;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;151026AC;6281;14:44:49
+2015;26;10;Yanacocha;Wet;Forest_Border;2;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;151026AC;12509;16:28:37
+2015;27;10;Yanacocha;Wet;Forest_Border;2;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;151027AB;14629;17:03:57
+2015;28;10;Yanacocha;Wet;Forest_Border;2;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;151028AA;3229;6:53:57
+2015;28;10;Yanacocha;Wet;Forest_Border;2;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;151028AA;8773;8:26:21
+2015;28;10;Yanacocha;Wet;Forest_Border;2;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;151028AC;4768;14:19:36
+2015;28;10;Yanacocha;Wet;Forest_Border;2;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;151028AC;16184;17:29:52
+2015;28;10;Yanacocha;Wet;Forest_Border;2;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;151028AC;16819;17:40:27
+2015;28;10;Yanacocha;Wet;Forest_Border;2;Diglossa lafresnayii;na;Ericaceae;Macleania rupestris;Feeding;151028AC;17845;17:57:33
+2015;29;10;Yanacocha;Wet;Forest_Border;2;Diglossa lafresnayii;na;Ericaceae;Macleania rupestris;Feeding;151029AA;10593;8:56:41
+2015;29;10;Yanacocha;Wet;Forest_Border;2;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;151029AA;14975;10:09:43
+2015;29;10;Yanacocha;Wet;Forest_Border;2;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;151029AA;18663;11:11:11
+2015;29;10;Yanacocha;Wet;Forest_Border;2;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;151029AA;19231;11:20:39
+2015;29;10;Yanacocha;Wet;Forest_Border;2;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;151029AB;15014;17:10:22
+2015;30;10;Yanacocha;Wet;Forest_Border;2;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;151030AA;2262;6:37:50
+2015;30;10;Yanacocha;Wet;Forest_Border;2;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;151030AA;8333;8:19:01
+2015;30;10;Yanacocha;Wet;Forest_Border;2;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;151030AA;12595;9:30:03
+2015;30;10;Yanacocha;Wet;Forest_Border;2;Diglossa lafresnayii;na;Ericaceae;Macleania rupestris;Feeding;151030AA;16623;10:37:11
+2016;7;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030716_02;1547;13:25:55
+2016;7;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030716_02;1962;13:32:50
+2016;7;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030716_02;3514;13:58:42
+2016;7;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030716_02;5725;14:35:33
+2016;7;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030716_02;7640;15:07:28
+2016;7;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030716_02;9550;15:39:18
+2016;7;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030716_02;10427;15:53:55
+2016;7;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030716_02;11485;16:11:33
+2016;7;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030716_02;13068;16:37:56
+2016;7;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030716_02;14582;17:03:10
+2016;7;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030716_02;16285;17:31:33
+2016;7;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030716_02;18160;18:02:48
+2016;7;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030716_02;19029;18:17:17
+2016;8;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030816_01;642;6:10:50
+2016;8;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030816_01;790;6:13:18
+2016;8;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030816_01;1116;6:18:44
+2016;8;3;Esperanza;Wet;Forest_Border;1;Metallura tyrianthina;male;Ericaceae;Macleania rupestris;Feeding;030816_01;2590;6:43:18
+2016;8;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030816_01;4428;7:13:56
+2016;8;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030816_01;8054;8:14:22
+2016;8;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030816_01;10421;8:53:49
+2016;8;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030816_01;19002;11:16:50
+2016;8;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030816_01;20946;11:49:14
+2016;8;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030816_02;61;13:01:09
+2016;8;3;Esperanza;Wet;Forest_Border;1;Metallura tyrianthina;male;Ericaceae;Macleania rupestris;Feeding;030816_02;2448;13:40:56
+2016;8;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030816_02;3794;14:03:22
+2016;8;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030816_02;5371;14:29:39
+2016;8;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030816_02;6645;14:50:53
+2016;8;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030816_02;8023;15:13:51
+2016;8;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030816_02;9393;15:36:41
+2016;8;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030816_02;10949;16:02:37
+2016;8;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030816_02;13908;16:51:56
+2016;8;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030816_02;17558;17:52:46
+2016;8;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030816_02;18914;18:15:22
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_01;779;6:13:07
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_01;1497;6:25:05
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_01;4063;7:07:51
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_01;4668;7:17:56
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_01;6863;7:54:31
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_01;8177;8:16:25
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_01;9064;8:31:12
+2016;9;3;Esperanza;Wet;Forest_Border;1;Metallura tyrianthina;NA;Ericaceae;Macleania rupestris;Feeding;030916_01;10900;9:01:48
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_01;12417;9:27:03
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_01;14208;9:56:56
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis luciani;na;Ericaceae;Macleania rupestris;Feeding;030916_01;16483;10:34:51
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_01;16551;10:35:59
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_01;18470;11:07:58
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_01;20176;11:36:24
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_02;738;13:12:26
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis luciani;NA;Ericaceae;Macleania rupestris;Feeding;030916_02;1543;13:25:51
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_02;2084;13:34:52
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_02;3070;13:51:18
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_02;3922;14:05:30
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_02;4505;14:15:13
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_02;4959;14:22:47
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis luciani;NA;Ericaceae;Macleania rupestris;Feeding;030916_02;5607;14:33:35
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis luciani;NA;Ericaceae;Macleania rupestris;Feeding;030916_02;6212;14:43:40
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_02;7356;15:02:44
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_02;11084;16:04:52
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_02;11618;16:13:46
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_02;1387;16:53:15
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_02;16020;17:27:08
+2016;9;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;030916_02;16841;17:40:49
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis luciani;NA;Ericaceae;Macleania rupestris;Feeding;031016_01;505;6:08:33
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis luciani;na;Ericaceae;Macleania rupestris;Feeding;031016_01;1738;6:29:06
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;031016_01;2961;6:49:29
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;031016_01;3799;7:03:27
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;031016_01;5335;7:29:03
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;031016_01;7214;8:00:22
+2016;10;3;Esperanza;Wet;Forest_Border;1;Metallura tyrianthina;male;Ericaceae;Macleania rupestris;Feeding;031016_01;7529;8:05:37
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;031016_01;9125;8:32:13
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;031016_01;10885;9:01:33
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis luciani;NA;Ericaceae;Macleania rupestris;Feeding;031016_01;12628;9:30:36
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;031016_01;14024;9:53:52
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;031016_01;16078;10:28:06
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;031016_01;18205;11:03:33
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;031016_01;20807;11:46:55
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;031016_02;497;13:08:25
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;031016_02;2112;13:35:20
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;031016_02;4400;14:13:28
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;031016_02;9729;15:42:17
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;031016_02;11500;16:11:48
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;031016_02;13384;16:43:12
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;031016_02;4620;17:03:48
+2016;10;3;Esperanza;Wet;Forest_Border;1;Eriocnemis nigrivestis;female;Ericaceae;Macleania rupestris;Feeding;031016_02;18689;18:11:37
+2016;15;1;Yanacocha;Wet;Forest_interior;0;Coeligena lutetiae;male;Ericaceae;Macleania rupestris;Feeding;File001;917;13:15:25
+2016;15;1;Yanacocha;Wet;Forest_interior;0;Coeligena lutetiae;male;Ericaceae;Macleania rupestris;Feeding;File001;6589;14:49:57
+2016;16;1;Yanacocha;Wet;Forest_interior;0;Coeligena lutetiae;male;Ericaceae;Macleania rupestris;Feeding;File002;2894;6:48:22
+2016;16;1;Yanacocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;File002;10683;8:58:11
+2016;16;1;Yanacocha;Wet;Forest_interior;0;Coeligena lutetiae;male;Ericaceae;Macleania rupestris;Feeding;File002;13896;9:51:44
+2016;16;1;Yanacocha;Wet;Forest_interior;0;Metallura tyrianthina;male;Ericaceae;Macleania rupestris;Feeding;File003;10324;15:52:12
+2016;16;1;Yanacocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Ericaceae;Macleania rupestris;Feeding;File003;14067;16:54:35
+2016;17;1;Yanacocha;Wet;Forest_interior;0;Coeligena lutetiae;male;Ericaceae;Macleania rupestris;Feeding;File004;2486;6:41:34
+2016;17;1;Yanacocha;Wet;Forest_interior;0;Coeligena lutetiae;male;Ericaceae;Macleania rupestris;Feeding;File004;12980;9:36:28
+2016;17;1;Yanacocha;Wet;Forest_interior;0;Coeligena lutetiae;male;Ericaceae;Macleania rupestris;Feeding;File005;6659;14:51:07
+2016;18;1;Yanacocha;Wet;Forest_interior;0;Coeligena lutetiae;male;Ericaceae;Macleania rupestris;Feeding;File006;8453;8:21:01
+2016;18;1;Yanacocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;File006;13012;9:37:00
+2015;19;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Ericaceae;Macleania rupestris;Feeding;151219AA;14397;10:00:06
+2015;19;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Ericaceae;Macleania rupestris;Feeding;151219AB;14870;17:07:58
+2015;19;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Ericaceae;Macleania rupestris;Feeding;151219AB;9996;15:46:43
+2015;20;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Ericaceae;Macleania rupestris;Feeding;151220AA;3460;6:57:48
+2015;20;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Ericaceae;Macleania rupestris;Feeding;151220AA;10600;8:56:48
+2015;20;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Ericaceae;Macleania rupestris;Feeding;151220AB;12615;16:30:23
+2015;21;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Ericaceae;Macleania rupestris;Feeding;151221AB;18497;18:08:25
+2015;22;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Ericaceae;Macleania rupestris;Feeding;151222AA;19471;11:24:39
+2015;22;12;Yanacocha;Wet;Forest_Patch;3;Trochilidae;na;Ericaceae;Macleania rupestris;Feeding;151222AB;16756;17:39:24
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Macleania rupestris;Feeding;160505AA;1999-2004;6:33:27
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;160505AA;10635-10639;8:57:23
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;160505AA;17802;10:56:50
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Macleania rupestris;Feeding;160505AB;854;13:14:22
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;160505AB;7741-7744;15:09:09
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;160505AB;11662;16:14:30
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;160505AB;15159;17:12:47
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;160505AB;17702;17:55:10
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Macleania rupestris;Feeding;160506AA;1888;6:31:36
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;160506AA;4159-4167;7:09:27
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Macleania rupestris;Feeding;160506AA;10922;9:02:10
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;160506AA;21013-21018;11:50:21
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;160506AB;3278;13:54:46
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;160506AB;9808;15:43:36
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;160506AB;16536;17:35:44
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Trochilidae;na;Ericaceae;Macleania rupestris;Feeding;160507AA;579;6:09:47
+2016;28;5;Yanacocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;160528AA;3921;7:05:30
+2016;28;5;Yanacocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;160528AA;14464;10:01:13
+2016;28;5;Yanacocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;160528AA;15367;10:16:16
+2016;28;5;Yanacocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;160528AA;19612;11:27:01
+2016;28;5;Yanacocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;160528AA;20374;11:39:43
+2016;28;5;Yanacocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Macleania rupestris;Feeding;160528AB;863;13:14:31
+2016;28;5;Yanacocha;Wet;Forest_interior;0;Trochilidae;na;Ericaceae;Macleania rupestris;Feeding;160528AB;6989;14:56:53
+2016;28;5;Yanacocha;Wet;Forest_interior;0;Trochilidae;na;Ericaceae;Macleania rupestris;Feeding;160528AB;16597;17:43:01
+2016;2;6;Yanacocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Ericaceae;Macleania rupestris;Feeding;160602AA;11028;9:03:46
+2016;3;6;Yanacocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Ericaceae;Macleania rupestris;Feeding;160603AB;13579;15:46:19
+2016;4;6;Yanacocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Ericaceae;Macleania rupestris;Feeding;160604AB;3712;14:01:52
+2016;4;6;Yanacocha;Wet;Forest_interior;0;Eriocnemis luciani;na;Ericaceae;Macleania rupestris;Feeding;160604AB;17334;17:48:54
+2015;18;4;Yanacocha;Wet;Forest_Patch;3;Diglossa lafresnayii;na;Rubiaceae;Palicourea fuchsioides;Feeding;150418AC;13515;16:15:29
+2015;20;4;Yanacocha;Wet;Forest_Patch;3;Diglossa lafresnayii;na;Rubiaceae;Palicourea fuchsioides;Feeding;150420AA;5746;7:36:01
+2015;21;4;Yanacocha;Wet;Forest_Patch;3;Diglossa lafresnayii;na;Rubiaceae;Palicourea fuchsioides;Feeding;150421AA;2849;6:47:44
+2015;12;3;Yanacocha;Wet;Forest_Patch;3;Metallura tyrianthina;na;Rubiaceae;Palicourea fuchsioides;Feeding;150312AB;3217;8:33:51
+2015;13;3;Yanacocha;Wet;Forest_Patch;3;Metallura tyrianthina;na;Rubiaceae;Palicourea fuchsioides;Feeding;150313AH;1938;5:24:46
+2015;20;6;Yanacocha;Dry;Forest_interior;0;Metallura tyrianthina;na;Rubiaceae;Palicourea fuchsioides;Feeding;150620AC;8402;15:20:10
+2015;21;6;Yanacocha;Dry;Forest_interior;0;Metallura tyrianthina;na;Rubiaceae;Palicourea fuchsioides;Feeding;150621AA;7686;8:08:14
+2015;21;6;Yanacocha;Dry;Forest_interior;0;Metallura tyrianthina;na;Rubiaceae;Palicourea fuchsioides;Feeding;150621AA;13757;9:49:25
+2015;21;6;Yanacocha;Dry;Forest_interior;0;Metallura tyrianthina;na;Rubiaceae;Palicourea fuchsioides;Feeding;150621AA;17332;10:49:00
+2015;21;6;Yanacocha;Dry;Forest_interior;0;Diglossopis cyanea;na;Rubiaceae;Palicourea fuchsioides;Feeding;150621AA;20852;11:47
+2015;21;6;Yanacocha;Dry;Forest_interior;0;Metallura tyrianthina;na;Rubiaceae;Palicourea fuchsioides;Feeding;150621AC;8682;15:24:50
+2015;21;6;Yanacocha;Dry;Forest_interior;0;Metallura tyrianthina;na;Rubiaceae;Palicourea fuchsioides;Feeding;150621AC;15748;17:22:36
+2014;16;9;Verdecocha;Wet;Forest_interior;0;Coeligena lutetiae;na;Rubiaceae;Palicourea fuchsioides;Feeding;140916AA;162;
+2014;16;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;140916AA;3298;6:55:13
+2014;16;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female?;Rubiaceae;Palicourea fuchsioides;Feeding;140916AA;6440;7:47:35
+2014;16;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;male;Rubiaceae;Palicourea fuchsioides;Feeding;140916AA;7938;8:12:33
+2014;16;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;140916AA;9847;8:44:22
+2014;16;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;male;Rubiaceae;Palicourea fuchsioides;Feeding;140916AA;15564;10:19:39
+2014;16;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;male;Rubiaceae;Palicourea fuchsioides;Feeding;140916AA;17661;10:54:36
+2014;16;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;male;Rubiaceae;Palicourea fuchsioides;Feeding;140916AB;1100;12:48:28
+2014;16;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;male;Rubiaceae;Palicourea fuchsioides;Feeding;140916AB;3672;13:31:20
+2014;16;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;male;Rubiaceae;Palicourea fuchsioides;Feeding;140916AB;7633;14:37:21
+2014;16;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;male;Rubiaceae;Palicourea fuchsioides;Feeding;140916AB;10645;15:27:33
+2014;16;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;male;Rubiaceae;Palicourea fuchsioides;Feeding;140916AB;17858;17:27:46
+2014;17;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;male;Rubiaceae;Palicourea fuchsioides;Feeding;140917AA;76;6:01:31
+2014;17;9;Verdecocha;Wet;Forest_interior;0;Coeligena lutetiae;na;Rubiaceae;Palicourea fuchsioides;Feeding;140917AA;162;
+2014;17;9;Verdecocha;Wet;Forest_interior;0;Coeligena lutetiae;na;Rubiaceae;Palicourea fuchsioides;Feeding;140917AA;164;
+2014;17;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;140917AA;2529;6:42:24
+2014;17;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;male;Rubiaceae;Palicourea fuchsioides;Feeding;140917AA;6986;7:56:41
+2014;17;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;140917AA;19502;11:25:17
+2014;17;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;male;Rubiaceae;Palicourea fuchsioides;Feeding;140917AA;19979;11:33:14
+2014;17;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;male;Rubiaceae;Palicourea fuchsioides;Feeding;140917AB;5196;13:56:49
+2014;17;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;male;Rubiaceae;Palicourea fuchsioides;Feeding;140917AB;7724;14:38:57
+2014;17;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;na;Rubiaceae;Palicourea fuchsioides;Feeding;140917AB;11446;15:40:59
+2014;17;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;male;Rubiaceae;Palicourea fuchsioides;Feeding;140917AB;18947;17:46:00
+2014;18;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;male;Rubiaceae;Palicourea fuchsioides;Feeding;140918AA;164;6:02:59
+2014;18;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;male;Rubiaceae;Palicourea fuchsioides;Feeding;140918AA;917;6:15:32
+2014;18;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;male;Rubiaceae;Palicourea fuchsioides;Feeding;140918AA;5097;7:25:12
+2014;18;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;male;Rubiaceae;Palicourea fuchsioides;Feeding;140918AA;10249;8:51:04
+2014;18;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;140918AA;13802;9:50:17
+2014;18;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;male;Rubiaceae;Palicourea fuchsioides;Feeding;140918AA;18507;11:08:42
+2014;18;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;na;Rubiaceae;Palicourea fuchsioides;Feeding;140918AB;816;12:43:45
+2014;18;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;na;Rubiaceae;Palicourea fuchsioides;Feeding;140918AB;8572;14:53:01
+2014;18;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;na;Rubiaceae;Palicourea fuchsioides;Feeding;140918AB;11266;15:37:55
+2014;18;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;na;Rubiaceae;Palicourea fuchsioides;Feeding;140918AB;12430;15:57:19
+2014;18;9;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;na;Rubiaceae;Palicourea fuchsioides;Feeding;140918AB;14175;16:26:24
+2015;1;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151201AB;3825;14:03:53
+2015;1;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151201AB;12871;16:34:39
+2015;1;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151201AB;16597;17:36:45
+2015;2;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151202AA;4018;7:07:06
+2015;2;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151202AA;7129;7:58:57
+2015;2;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151202AA;15836;10:24:04
+2015;2;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151202AB;56;13:01:04
+2015;2;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151202AB;1954;13:32:42
+2015;2;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151202AB;5473;14:31:21
+2015;2;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151202AB;9102;15:31:50
+2015;3;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151203AB;2175;13:36:23
+2015;24;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;150724AB;18674;18:11:22
+2015;25;7;Verdecocha;Wet;Forest_interior;0;Trochilidae;na;Rubiaceae;Palicourea fuchsioides;Feeding;150725AA;1522;6:25:30
+2015;25;7;Verdecocha;Wet;Forest_interior;0;Eriocnemis luciani;na ;Rubiaceae;Palicourea fuchsioides;Feeding;150725AA;3262;6:54:30
+2015;25;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;150725AA;20216;11:37:04
+2015;27;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;150727AA;5314;7:28:42
+2015;27;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;150727AB;5935;14:39:03
+2015;19;12;Yanacocha;Wet;Forest_Border;2;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151219AB;14186;16:56:34
+2015;20;12;Yanacocha;Wet;Forest_Border;2;Metallura tyrianthina;na;Rubiaceae;Palicourea fuchsioides;Feeding;151220AA;5674;7:34:42
+2015;20;12;Yanacocha;Wet;Forest_Border;2;Trochilidae;na;Rubiaceae;Palicourea fuchsioides;Feeding;151220AA;9714;8:42:02
+2015;20;12;Yanacocha;Wet;Forest_Border;2;Metallura tyrianthina;na;Rubiaceae;Palicourea fuchsioides;Feeding;151220AA;18401;11:06:49
+2015;20;12;Yanacocha;Wet;Forest_Border;2;Metallura tyrianthina;na;Rubiaceae;Palicourea fuchsioides;Feeding;151220AB;326;13:05:34
+2015;20;12;Yanacocha;Wet;Forest_Border;2;Metallura tyrianthina;na;Rubiaceae;Palicourea fuchsioides;Feeding;151220AB;8919;15:28:47
+2015;20;12;Yanacocha;Wet;Forest_Border;2;Metallura tyrianthina;na;Rubiaceae;Palicourea fuchsioides;Feeding;151220AB;13157;16:39:25
+2015;21;12;Yanacocha;Wet;Forest_Border;2;Eriocnemis mosquera;na;Rubiaceae;Palicourea fuchsioides;Feeding;151221AA;2375;6:39:43
+2015;19;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151219AB;5778;14:36:31
+2015;19;12;Yanacocha;Wet;Forest_Patch;3;Trochilidae;na;Rubiaceae;Palicourea fuchsioides;Feeding;151219AB;14678;17:04:51
+2015;20;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151220AA;1848;6:31:03
+2015;20;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151220AA;18238;11:04:13
+2015;20;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151220AB;858;13:14:26
+2015;20;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151220AB;9540, 9544;15:39:08
+2015;21;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151221AB;4282, 4286;14:11:30
+2015;21;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151221AB;16340;17:32:28
+2015;21;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151221AB;18337;18:05:45
+2015;22;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151222AB;7200;15:00:08
+2015;22;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151222AB;11333;16:09:01
+2015;22;12;Yanacocha;Wet;Forest_Patch;3;Eriocnemis luciani;na;Rubiaceae;Palicourea fuchsioides;Feeding;151222AB;19097;18:18:25
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Rubiaceae;Palicourea fuchsioides;Feeding;160505AA;1211-1215;6:20:19
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160505AA;5342;7:29:10
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Rubiaceae;Palicourea fuchsioides;Feeding;160505AA;6704;7:51:52
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160505AA;9879;8:44:47
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160505AA;12980;9:36:28
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160505AA;16056;10:27:44
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Wasp;na;Rubiaceae;Palicourea fuchsioides;Feeding;160505AA;17042;10:44:10
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160505AA;18808;11:13:36
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160505AA;21327;11:55:35
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Rubiaceae;Palicourea fuchsioides;Feeding;160505AB;2628;13:43:56
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160505AB;8284;15:18:12
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160505AB;14399;17:00:07
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Rubiaceae;Palicourea fuchsioides;Feeding;160506AA;2547;6:42
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160506AA;11787;9:16:35
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160506AA;12913;9:35:21
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160506AB;3386;13:56:34
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160506AB;15917-15918;17:25:25
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Rubiaceae;Palicourea fuchsioides;Feeding;160507AA;4108;7:08:36
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160507AA;5629;7:33:57
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160507AA;14010;9:53:38
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160507AA;20006;11:33:34
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160507AB;2593;13:43:21
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160507AB;5670;14:34:38
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160507AB;8143;15:15:51
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160507AB;18978;18:16:26
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160508AA;898-905;6:15:06
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Rubiaceae;Palicourea fuchsioides;Feeding;160508AA;1085;6:18:13
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160508AA;14237;9:57:25
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160508AA;19813;11:30:50
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Rubiaceae;Palicourea fuchsioides;Feeding;160508AB;903;13:15:11
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;female;Rubiaceae;Palicourea fuchsioides;Feeding;160508AB;4657;14:17:45
+2015;24;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Racinaea tetrantha;Feeding;150724AB;1026;13:17:14
+2015;24;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Racinaea tetrantha;Feeding;150724AB;3440;13:57:28
+2015;25;7;Verdecocha;Dry;Forest_interior;0;Metallura tyrianthina;male;Bromeliaceae;Racinaea tetrantha;Feeding;150725AA;15665;10:21:13
+2015;26;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Racinaea tetrantha;Feeding;150726AB;1928;13:32:16
+2015;26;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Racinaea tetrantha;Feeding;150726AB;6962;14:56:10
+2015;26;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Racinaea tetrantha;Feeding;150726AB;19041;18:17:29
+2015;27;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Racinaea tetrantha;Feeding;150727AB;15142;17:12:38
+2015;28;7;Verdecocha;Dry;Forest_interior;0;Eriocnemis luciani;na;Bromeliaceae;Racinaea tetrantha;Feeding;150728AA;20216;11:37:13
+2015;24;9;Verdecocha;Wet;Burned;4;Metallura tyrianthina;na;Bromeliaceae;Racinaea tetrantha;Feeding;150924AA;8976;8:29:44
+2015;24;9;Verdecocha;Wet;Burned;4;Metallura tyrianthina;na;Bromeliaceae;Racinaea tetrantha;Feeding;150924AA;11427;9:10:35
+2015;24;9;Verdecocha;Wet;Burned;4;Metallura tyrianthina;female;Bromeliaceae;Racinaea tetrantha;Feeding;150924AB;1610;13:26:58
+2015;25;9;Verdecocha;Wet;Burned;4;Metallura tyrianthina;na;Bromeliaceae;Racinaea tetrantha;Feeding;150925AB;128;13:02:16
+2015;25;9;Verdecocha;Wet;Burned;4;Trochilidae;na;Bromeliaceae;Racinaea tetrantha;Feeding;150925AB;3749;14:02:37
+2015;26;9;Verdecocha;Wet;Burned;4;Metallura tyrianthina;na;Bromeliaceae;Racinaea tetrantha;Feeding;150926AA;12381;9:26:29
+2015;26;9;Verdecocha;Wet;Burned;4;Metallura tyrianthina;na;Bromeliaceae;Racinaea tetrantha;Feeding;150926AB;454;13:07:42
+2016;4;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Bromeliaceae;Racinaea tetrantha;Feeding;160504AB;16587;17:36:35
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Bromeliaceae;Racinaea tetrantha;Feeding;160505AB;4821;17:07:09
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Eriocnemis nigrivestis;male;Bromeliaceae;Racinaea tetrantha;Feeding;160506AB;5092;14:25:00
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Trochilidae;na;Bromeliaceae;Racinaea tetrantha;Feeding;160507AB;7353;15:02:41
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Bromeliaceae;Racinaea tetrantha;Feeding;160508AB;11333;16:09:06
+2014;7;8;Verdecocha;Dry;Forest_interior;0;Diglossa sp.;na;Ericaceae;Thibaudia floribunda;Feeding;140807AA;2453;7:22:02
+2014;7;8;Verdecocha;Dry;Forest_interior;0;Eriocnemis nigrivestis;male;Ericaceae;Thibaudia floribunda;Feeding;140807AB;1812;13:30:32
+2014;8;8;Verdecocha;Dry;Forest_interior;0;Eriocnemis nigrivestis;male;Ericaceae;Thibaudia floribunda;Feeding;140808AA;8106;10:30:27
+2014;8;8;Verdecocha;Dry;Forest_interior;0;Eriocnemis nigrivestis;male;Ericaceae;Thibaudia floribunda;Feeding;140808AA;9768;11:25:51
+2014;9;8;Verdecocha;Dry;Forest_interior;0;Eriocnemis nigrivestis;male;Ericaceae;Thibaudia floribunda;Feeding;140809AD;5287;15:26:25
+2014;10;8;Verdecocha;Dry;Forest_interior;0;Eriocnemis nigrivestis;male;Ericaceae;Thibaudia floribunda;Feeding;140810AA;5208;8:53:52
+2014;10;8;Verdecocha;Dry;Forest_interior;0;Eriocnemis nigrivestis;male;Ericaceae;Thibaudia floribunda;Feeding;140810AB;731;10:40:35
+2014;11;8;Verdecocha;Dry;Forest_interior;0;Eriocnemis nigrivestis;male;Ericaceae;Thibaudia floribunda;Feeding;140811AB;377;10:39:49
+2016;5;5;Esperanza;Wet;Forest_Border;1;Metallura tyrianthina;na;Ericaceae;Thibaudia floribunda;Feeding;160506AA;16924-16937;10:42:12
+2016;7;5;Esperanza;Wet;Forest_Border;1;Metallura tyrianthina;male;Ericaceae;Thibaudia floribunda;Feeding;160507AA;5620-5635;7:33:48
+2016;7;5;Esperanza;Wet;Forest_Border;1;Metallura tyrianthina;na;Ericaceae;Thibaudia floribunda;Feeding;160507AA;10103-10113;8:48:31
+2016;7;5;Esperanza;Wet;Forest_Border;1;Metallura tyrianthina;na;Ericaceae;Thibaudia floribunda;Feeding;160507AB;7801-7804;15:10:09
+2016;8;5;Esperanza;Wet;Forest_Border;1;Metallura tyrianthina;male;Ericaceae;Thibaudia floribunda;Feeding;160508AA;8060-8062;8:14:28
+2016;8;5;Esperanza;Wet;Forest_Border;1;Metallura tyrianthina;na;Ericaceae;Thibaudia floribunda;Feeding;160508AA;21057-21065;11:51:48
+2016;8;5;Esperanza;Wet;Forest_Border;1;Metallura tyrianthina;na;Ericaceae;Thibaudia floribunda;Feeding;160508AB;6923-6932;14:55:31
+2016;8;5;Esperanza;Wet;Forest_Border;1;Metallura tyrianthina;na;Ericaceae;Thibaudia floribunda;Feeding;160508AB;14101-14115;16:55:20
+2016;8;5;Esperanza;Wet;Forest_Border;1;Metallura tyrianthina;na;Ericaceae;Thibaudia floribunda;Feeding;160508AB;18096-18109;18:01:55
+2016;5;5;Esperanza;Wet;Forest_Border;1;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160505AA;15168-15173;10:12:56
+2016;6;5;Esperanza;Wet;Forest_Border;1;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160506AB;14045;16:54:13
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160505AA;1009;6:16:48
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Thibaudia floribunda;Feeding;160505AA;1504;6:25:36
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160505AA;13052;9:37:12
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160505AA;13919;9:51:36
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160505AA;14600;10:03:00
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160505AA;19815;11:30:00
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160505AA;20554;11:42:36
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Diglossopis cyanea;na;Ericaceae;Thibaudia floribunda;Feeding;160505AA;21034;11:50:24
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Diglossopis cyanea;na;Ericaceae;Thibaudia floribunda;Feeding;160505AB;1008;13:16:48
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160505AB;1824;13:30:24
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Diglossopis cyanea;na;Ericaceae;Thibaudia floribunda;Feeding;160505AB;4472;14:14:31
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Diglossopis cyanea;na;Ericaceae;Thibaudia floribunda;Feeding;160505AB;5812;14:36:36
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160505AB;8089;15:15:00
+2016;5;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160505AB;15465;17:17:24
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160506AA;1233;6:13:20
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Thibaudia floribunda;Feeding;160506AA;1968;6:32:48
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160506AA;2564;6:42:43
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160506AA;11915;9:18:36
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160506AA;16767;10:39:00
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160506AA;21559;11:59:24
+2016;6;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160506AB;6523;14:48:36
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160507AA;1141;6:19:12
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160507AA;12750;9:32:31
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Thibaudia floribunda;Feeding;160507AB;2843;13:47:24
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Thibaudia floribunda;Feeding;160507AB;4782;14:19:41
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Thibaudia floribunda;Feeding;160507AB;6742;14:52:19
+2016;7;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Thibaudia floribunda;Feeding;160507AB;12911;16:35:45
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Thibaudia floribunda;Feeding;160508AA;8680;8:24:39
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160508AA;12946;9:35:45
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;female;Ericaceae;Thibaudia floribunda;Feeding;160508AA;20549;11:42:29
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Thibaudia floribunda;Feeding;160508AB;4257;14:10:55
+2016;8;5;Verdecocha;Wet;Forest_interior;0;Metallura tyrianthina;na;Ericaceae;Thibaudia floribunda;Feeding;160508AB;8237;15:17:16
