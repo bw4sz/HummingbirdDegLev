@@ -1,14 +1,9 @@
----
-title: "Hummingbird Deforestation Levels"
-author: "Ben Weinstein"
-date: "July 19, 2016"
-output: 
-  html_document:
-    keep_md: true
-    number_sections: true
----
+# Hummingbird Deforestation Levels
+Ben Weinstein  
+July 19, 2016  
 
-```{r,message=F,warning=F}
+
+```r
 #read in packages
 library(reshape2)
 library(ggplot2)
@@ -23,7 +18,8 @@ lies within the Mindo Important Bird Area (IBA; Freile and Santander 2005). Rece
 
 # Read in data
 
-```{r}
+
+```r
 #read in data
 dat<-read.csv("InputData/InteractionData_Total.csv",sep=";")
 
@@ -39,14 +35,16 @@ sdat$Rate<-round(sdat$Yobs/sdat$Days,2)
 ```
 
 #Data Cleaning
-```{r}
-```
+
 
 #Visualize data
 
-```{r,fig.height=10,fig.width=12}
+
+```r
 ggplot(sdat,aes(x=Bird,y=Plant.species,fill=Rate)) + geom_tile() + facet_wrap(DegLev~Site,scales="free",ncol=3) + scale_fill_continuous(low="blue",high="red") + theme_bw() + theme(axis.text.x=element_text(angle=-90))
 ```
+
+![](Esteban_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
 
 **Figure 1. Interaction networks based on the daily rate of visitation at each site and degredation level (0-4).**
 
@@ -57,11 +55,26 @@ ggplot(sdat,aes(x=Bird,y=Plant.species,fill=Rate)) + geom_tile() + facet_wrap(De
 ## Does the rate of hummingbird visitation change with degredation levels?
 * This would reduce the dataset to plants that are represented in multiple levels, i.e:
 
-```{r}
+
+```r
 plantsp<-sdat %>% group_by(Plant.species) %>% summarize(n=length(unique(DegLev))) %>% filter(n>1)
 plantsp
 ```
 
-##Does the rate of trait-matching change across deforestation levels? 
-  *That is, do species in deforested areas use different resources with respect to their bill lengths?
+```
+## Source: local data frame [8 x 2]
+## 
+##              Plant.species     n
+##                     (fctr) (int)
+## 1   Berberis pichinchensis     2
+## 2             Bromeliad3PF     3
+## 3 Disterigma alalternoides     2
+## 4              Guzmania_sp     2
+## 5      Macleania rupestris     4
+## 6   Palicourea fuchsioides     3
+## 7       Racinaea tetrantha     2
+## 8     Thibaudia floribunda     2
+```
+
+##Does the rate of trait-matching change across deforestation levels? That is, do species in deforested areas use different resources with respect to their bill lengths?
   + This would require that we have information on bill and corolla lengths. How complete is this list? For all species, regardless of whether they are across mulitple sites.
